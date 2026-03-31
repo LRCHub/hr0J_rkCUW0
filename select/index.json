@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "霊園",
+  "base_artist": "カイジューバイミー",
+  "createdAt": "2026-03-31T11:00:33.802318Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "霊園",
+      "artist": "カイジューバイミー",
+      "has_synced": false,
+      "path": "select/pl_01_霊園_カイジューバイミー.txt"
+    }
+  ]
+}
